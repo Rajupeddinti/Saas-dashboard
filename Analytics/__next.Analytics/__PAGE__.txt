@@ -3,7 +3,7 @@
 3:I[84699,["/Saas-dashboard/_next/static/chunks/a25232a0034c5262.js","/Saas-dashboard/_next/static/chunks/f96a0f45c0445e01.js","/Saas-dashboard/_next/static/chunks/f943e8e1fee6a208.js","/Saas-dashboard/_next/static/chunks/c2d16ba3d8074ab6.js"],"default"]
 6:I[97367,["/Saas-dashboard/_next/static/chunks/ff1a16fafef87110.js","/Saas-dashboard/_next/static/chunks/a2dfb6fc5208ab9b.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"Bj6F07VYkUZjUwBl5WKLx","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Saas-dashboard/_next/static/chunks/f943e8e1fee6a208.js","async":true}],["$","script","script-1",{"src":"/Saas-dashboard/_next/static/chunks/c2d16ba3d8074ab6.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"UEG8MpOzl-oBV8nZCWq8k","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Saas-dashboard/_next/static/chunks/f943e8e1fee6a208.js","async":true}],["$","script","script-1",{"src":"/Saas-dashboard/_next/static/chunks/c2d16ba3d8074ab6.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
