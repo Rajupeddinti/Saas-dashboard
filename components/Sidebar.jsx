@@ -38,7 +38,7 @@ export default function Sidebar() {
       {/* HEADER */}
       <div className="flex items-center justify-between mb-8">
         {!collapsed && (
-          <h1 className="text-xl font-semibold">SaaS Dashboard</h1>
+          <h1 className="text-xl font-semibold">Saas-Dashboard</h1>
         )}
 
         {/* Desktop Collapse Toggle */}

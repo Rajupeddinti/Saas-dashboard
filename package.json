@@ -2,11 +2,14 @@
   "name": "saas",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rajupeddinti.github.io/Saas-dashboard",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "framer-motion": "^12.34.0",
